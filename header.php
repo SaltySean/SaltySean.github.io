@@ -2,7 +2,7 @@
 
 /**
  * 主题页眉
- * @author Seaton Jiang <hi@seatonjiang.com>
+ * @author SaltySean <sheanlin0502@gmail.com>
  * @license GPL-3.0 License
  * @version 2022.05.27
  */
